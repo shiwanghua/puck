@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: puck
+Version: 0.0.1
+Summary: A library for efficient similarity search and clustering of dense vectors 
+Home-page: https://github.com/baidu/puck
+Author: Huang,Ben Yin,Jie
+Author-email: huangben@baidu.com,yinjie06@baidu.com
+License: Apache License 2.0
+Requires-Python: >=3.6
+License-File: LICENSE

@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+puck.egg-info/PKG-INFO
+puck.egg-info/SOURCES.txt
+puck.egg-info/dependency_links.txt
+puck.egg-info/not-zip-safe
+puck.egg-info/top_level.txt
